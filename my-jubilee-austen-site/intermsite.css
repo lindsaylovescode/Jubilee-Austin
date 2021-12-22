@@ -1,0 +1,35 @@
+h1{
+        padding: 50px;
+        font-family: 'Playfair Display', serif;
+        color:#ff7221;
+        font-size:80px;
+        text-align:center
+
+}
+
+h2{
+    padding: 150px 50px 150px 50px;
+    font-family: 'Montserrat', sans-serif;
+    color:#ffffff;
+    background-color: #ffa8a8;
+    font-size:35px;
+    text-align: center;
+
+}
+
+h3{
+    padding: 50px;
+    color: #ffae89;
+    font-family: 'Playfair Display', serif;
+    font-size:50px;
+    text-align:right;
+
+}
+
+p{
+    padding:50px;
+    color: #ffae89;
+    font-family: 'Playfair Display', serif;
+    font-size:50px;
+    text-align: center;
+}
